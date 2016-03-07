@@ -1,0 +1,1 @@
+->)error in set icon on frame->frame.setIconImage(img.getImage());
